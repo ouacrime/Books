@@ -1,0 +1,34 @@
+.card {
+    width: 400px ;
+}
+
+.carousel-inner {
+    height: 600px ;
+}
+
+.navbar-dark .navbar-nav .show > .nav-link ,
+.navbar-dark .navbar-nav .nav-link.active {
+    color: #0ff;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #ff0 ;
+}
+
+
+.bg-dark {
+    background-color: #000 !important ;
+}
+
+.carousel-item {
+    height: 100% ;
+}
+
+.carousel-item img {
+    height: 100% ;
+}
+
+
+.carousel-caption {
+    bottom: 8em ;
+}
